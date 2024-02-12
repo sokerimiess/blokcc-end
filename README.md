@@ -1,6 +1,10 @@
 # blockchain-assignment3
 Blockchain - Assignment 3
+* Magzhan Shynykul
+* Zhania Zhakipova
+* Aibek Janabekov
 
+  
 # Decentralized Professional Networking Platform
 
 ## Project Overview
