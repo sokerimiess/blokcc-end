@@ -51,3 +51,6 @@ Welcome to our decentralized professional networking platform, a web3 LinkedIn-l
 
 ### License
 [Details about the licensing of the project]
+
+![image](https://github.com/sokerimiess/blokcc-end/assets/140519769/341d18e8-a40d-4919-ba73-ec43857604f2)
+
