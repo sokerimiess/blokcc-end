@@ -1,8 +1,5 @@
 # blockchain-assignment3
 Blockchain - Assignment 3 - _SE-2231_
-* Magzhan Shynykul
-* Zhania Zhakipova
-* Aibek Janabekov
 
   
 # Decentralized Professional Networking Platform
@@ -44,13 +41,50 @@ Welcome to our decentralized professional networking platform, a web3 LinkedIn-l
 * Write posts (exclusive for TOPWEB3 NFT holders).
 
 ### Getting Started
-[Instructions on how to set up, install dependencies, and run the project]
+  *This section provides instructions on how to set up, install dependencies, and run our decentralized professional networking platform.*
+ 
+**Prerequisites**
+
+* Ensure you have Node.js and npm installed. 
+
+* Install Truffle, a development framework for Ethereum. 
+
+* An Ethereum wallet like MetaMask for interaction with the Ethereum blockchain.
+   
+**Installation**
+
+1. Clone the Repository: Clone the project repository to your local machine using git clone [repository link]. 
+
+2. Install Dependencies: Navigate to the project directory and run npm install to install the required dependencies.
+   
+  **Configuration**
+
+* Set up your .env file with the necessary environment variables (e.g., private keys, API endpoints). 
+
+* Configure the truffle-config.js file to specify network settings and other configurations.
+   
+**Running the Application**
+
+1. Start a Local Blockchain: Run a local Ethereum blockchain instance, for example using Ganache. 
+
+2. Compile Smart Contracts: Compile the smart contracts with truffle compile. 
+
+3. Deploy Smart Contracts: Deploy the smart contracts onto the blockchain using truffle migrate. 
+
+4. Run the Frontend: Start the frontend application by running npm start or the relevant command for your setup.
+   
+**Interacting with the Platform**
+
+*Connect your MetaMask or other Ethereum wallet to the application.*
 
 ### Contributing
-[Guidelines for contributing to the project]
+
+* Magzhan Shynykul
+* Zhania Zhakipova
+* Aibek Janabekov
 
 ### License
-[Details about the licensing of the project]
+* MIT License
 
 # Screenshots
 * Home page
