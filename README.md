@@ -1,5 +1,5 @@
 # blockchain-assignment3
-Blockchain - Assignment 3 - SE-2231
+Blockchain - Assignment 3 - _SE-2231_
 * Magzhan Shynykul
 * Zhania Zhakipova
 * Aibek Janabekov
