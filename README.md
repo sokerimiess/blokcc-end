@@ -52,11 +52,15 @@ Welcome to our decentralized professional networking platform, a web3 LinkedIn-l
 ### License
 [Details about the licensing of the project]
 
-### Screenshots
-*Home page
+# Screenshots
+* Home page
 ![image](https://github.com/sokerimiess/blokcc-end/assets/140519769/341d18e8-a40d-4919-ba73-ec43857604f2)
 
-*Profile
+* Profile
 ![image](https://github.com/sokerimiess/blokcc-end/assets/140519769/b80388cc-5924-46c1-b21f-ee31265d62a4)
 
+* Messages
+![image](https://github.com/sokerimiess/blokcc-end/assets/140519769/521a1800-fe78-4593-bf8f-ad6d1a74753f)
 
+* Registration
+![image](https://github.com/sokerimiess/blokcc-end/assets/140519769/7b6f2478-e871-4645-b70e-0c848261b563)
